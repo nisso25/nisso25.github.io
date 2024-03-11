@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="chanson.xsl"?>
+<chanson>
+    <artiste>jean paulo</artiste>
+    <titre>nclkn</titre>
+    <annee>2023</annee>
+</chanson>
